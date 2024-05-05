@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      Juan Batista | React Image Finder 03
+      Juan Batista | React Image Finder 03.
     </div>
   );
 };
